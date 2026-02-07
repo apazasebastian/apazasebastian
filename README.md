@@ -16,6 +16,7 @@
   ### 【 私について 】 About Me
 
   (〜￣▽￣)〜
+  <img src="https://wallpapercave.com/wp/wp11702972.jpg"/>
   <br>
   Soy un **recién egresado** en informática, actualmente ganando experiencia (XP) como practicante en la **Municipalidad**, desarrollando soluciones para mi ciudad. Me gusta el código limpio, la eficiencia y aprender cosas nuevas.
 
@@ -26,24 +27,22 @@
   *Herramientas que uso para crear.*
 
   <p align="center">
-    <a href="https://php.net/" target="_blank">
-      <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-    </a>
-    <a href="https://laravel.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    </a>
+    <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
+  
   <p align="center">
-      <img src="https://img.shields.io/badge/Tools-Bizagi_&_PowerDesigner-000000?style=flat-square&logo=c&logoColor=white" alt="Tools" />
+    <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </p>
+
+  <p align="center">
+      <img src="https://img.shields.io/badge/Design-Bizagi_&_PowerDesigner-000000?style=flat-square&logo=diagrams.net&logoColor=white" alt="Tools" />
   </p>
 
   ---
@@ -60,12 +59,13 @@
   ---
 
   ### 【 現在の状況 】 Status
-  🔭 **Trabajando en:** Sistema de gestión para recintos deportivos municipales.
-  🌱 **Aprendiendo:** Profundizando en arquitecturas de software y seguridad.
+   **Trabajando en:** Sistema de gestión para recintos deportivos municipales.
+   <br>
+   **Aprendiendo:** Profundizando en arquitecturas de software y seguridad.
 
   <br>
   <p align="center">
-    (Look at my code!)
+    (Keep coding...)
     <br>
     👇
   </p>
